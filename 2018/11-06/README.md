@@ -82,19 +82,19 @@ I will be voting in Denver, Colorado for this election.
 
 ##### [Amendment A: Yes](co/amendment-a.md)
 
-##### [Amendment 73: TODO](co/amendment-73.md)
+##### [Amendment 73: Yes](co/amendment-73.md)
 
-##### [Amendment 74: TODO](co/amendment-74.md)
+##### [Amendment 74: No](co/amendment-74.md)
 
-##### [Amendment 75: TODO](co/amendment-75.md)
+##### [Amendment 75: No](co/amendment-75.md)
 
-##### [Proposition 109: TODO](co/proposition-109.md)
+##### [Proposition 109: No](co/proposition-109.md)
 
-##### [Proposition 110: TODO](co/proposition-110.md)
+##### [Proposition 110: No](co/proposition-110.md)
 
-##### [Proposition 111: TODO](co/proposition-111.md)
+##### [Proposition 111: Yes](co/proposition-111.md)
 
-##### [Proposition 112: TODO](co/proposition-112.md)
+##### [Proposition 112: Yes](co/proposition-112.md)
 
 #### City and County of Denver
 
