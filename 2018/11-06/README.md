@@ -38,7 +38,7 @@ I will be voting in Denver, Colorado for this election.
 
 ##### [District Court Judge, Shelley I. Gilman: Yes, Retain](co/district-court-shelley-i-gilman.md)
 
-##### [District Court Judge, David H. Goldberg: TODO](co/district-court-david-h-goldberg.md)
+##### [District Court Judge, David H. Goldberg: Yes, Retain](co/district-court-david-h-goldberg.md)
 
 ##### [District Court Judge, Jay Sutherland Grant: TODO](co/district-court-jay-sutherland-grant.md)
 
