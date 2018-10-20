@@ -28,7 +28,7 @@ I will be voting in Denver, Colorado for this election.
 
 ##### [Colorado Supreme Court Justice, Richard Gabriel: Yes, Retain](co/supreme-court-richard-gabriel.md)
 
-##### [Colorado Court of Appeals Judge, John Daniel Dailey: TODO](co/court-of-appeals-john-daniel-dailey.md)
+##### [Colorado Court of Appeals Judge, John Daniel Dailey: Yes, Retain](co/court-of-appeals-john-daniel-dailey.md)
 
 ##### [Colorado Court of Appeals Judge, Rebecca Rankin Freyre: TODO](co/court-of-appeals-rebecca-rankin-freyre.md)
 
