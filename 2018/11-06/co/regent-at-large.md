@@ -4,11 +4,20 @@
 
 * Lesley Smith
 * Ken Montera
-* James Treibert
-* Christopher Otwell
+* Christopher E. Otwell
+* James K. Treibert
 
-## Information: TODO
+## Information:
 
-# Vote: TODO
+* https://www.lesleyforcu.org/
+* https://monteraforcuregent.com/
+* https://www.facebook.com/otwellc4CURegent/
+* https://twitter.com/TreibertJames
 
-## Why: TODO
+# Vote: Lesley Smith
+
+## Why:
+
+* Neither Otwell nor Treibert have websites, and their social media accounts don't really explain why they want the office.
+* Ken Montera's website is heavy on ensorsements, light on positions.
+* Lesley Smith has some clear positions I agree with, such as "CU should be aware of the particular obstacles Black and Latinx students face and take action to address them so that all students have the same chance to succeed at CU."
