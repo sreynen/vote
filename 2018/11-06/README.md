@@ -14,18 +14,7 @@ I will be voting in Denver, Colorado for this election.
 
 ##### [Colorado Governor: Jared Polis](co/governor.md)
 
-##### Colorado Attorney General
-
-Candidates:
-
-* Phil Weiser
-* George Brauchler
-
-Information: TODO
-
-Vote: TODO
-
-Why: TODO
+##### [Colorado Attorney General: TODO](co/attorney-general.md)
 
 ##### Colorado Secretary of State
 
