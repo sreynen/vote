@@ -8,5 +8,5 @@
 
 ## Why:
 
-* I support wealthier people paying higher tax rates. They can afford it.
+* I support wealthier people paying higher tax rates. We can afford it.
 * I support better funding for education.
