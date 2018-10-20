@@ -14,162 +14,106 @@ I will be voting in Denver, Colorado for this election.
 
 ##### [Colorado Governor: Jared Polis](co/governor.md)
 
+##### [Colorado Secretary of State: TODO](co/secretary-of-state.md)
+
+##### [Colorado Treasurer: TODO](co/treasurer.md)
+
 ##### [Colorado Attorney General: TODO](co/attorney-general.md)
 
-##### Colorado Secretary of State
+##### [Regent of the University of Colorado, At Large: TODO](co/regent-at-large.md)
 
-Candidates:
+##### [Colorado State Senator, District 32: TODO](co/senate-32.md)
 
-* Wayne Williams
-* Jena Griswold
-* Bennett Rutledge
-* Blake Huber
+##### [Colorado State Represenative, District 2: Alec Garnett](co/house-02.md)
 
-Information: TODO
+##### [Colorado Supreme Court Justice, Richard Gabriel: TODO](co/supreme-court-richard-gabriel.md)
 
-Vote: TODO
+##### [Colorado Court of Appeals Judge, John Daniel Dailey: TODO](co/court-of-appeals-john-daniel-dailey.md)
 
-Why: TODO
+##### [Colorado Court of Appeals Judge, Rebecca Rankin Freyre: TODO](co/court-of-appeals-rebecca-rankin-freyre.md)
 
-##### Colorado Treasurer
+##### [Colorado Court of Appeals Judge, Elizabeth L. Harris: TODO](co/court-of-appeals-elizabeth-l-harris.md)
 
-Candidates:
+##### [Colorado Court of Appeals Judge, David J. Richman: TODO](co/court-of-appeals-david-j-richman.md)
 
-* Dave Young
-* Brian Watson
+##### [District Court Judge, Shelley I. Gilman: TODO](co/district-court-shelley-i-gilman.md)
 
-Information: TODO
+##### [District Court Judge, David H. Goldberg: TODO](co/district-court-david-h-goldberg.md)
 
-Vote: TODO
+##### [District Court Judge, Jay Sutherland Grant: TODO](co/district-court-jay-sutherland-grant.md)
 
-Why: TODO
+##### [District Court Judge, Morris B. Hoffman: TODO](co/district-court-morris-b-hoffman.md)
 
-##### Colorado State Board of Regents, at Large Seat
+##### [District Court Judge, Kenneth Martin Laff: TODO](co/district-court-kenneth-martin-laff.md)
 
-Candidates:
+##### [District Court Judge, Catherine A. Lemon: TODO](co/district-court-catherine-a-lemon.md)
 
-* Lesley Smith
-* Ken Montera
-* James Treibert
-* Christopher Otwell
+##### [District Court Judge, Jennifer B. Torrington: TODO](co/district-court-jennifer-b-torrington.md)
 
-Information: TODO
+##### [County Court Judge, Johnny C. Barajas: TODO](co/county-court-johnny-b-barajas.md)
 
-Vote: TODO
+##### [County Court Judge, Brian Thomas Campbell: TODO](co/county-court-brian-thomas-campbell.md)
 
-Why: TODO
+##### [County Court Judge, Andrea Eddy: TODO](co/county-court-andrea-eddy.md)
 
-##### Colorado State Senate District 32
+##### [County Court Judge, Adam J. Espinosa: TODO](co/county-court-adam-j-espinosa.md)
 
-Candidates:
+##### [County Court Judge, Olympia Z. Fay: TODO](co/county-court-olympia-z-fay.md)
 
-* Robert Rodriguez
-* Mark Calonder
-* Peter Smith
+##### [County Court Judge, Clarisse Gonzales: TODO](co/county-court-clarisse-gonzales.md)
 
-Information: TODO
+##### [County Court Judge, Kerri Lombardi: TODO](co/county-court-kerri-lombardi.md)
 
-Vote: TODO
+##### [County Court Judge, Chelsea Malone: TODO](co/county-court-chelsea-malone.md)
 
-Why: TODO
+### Ballot Questions
 
-##### Colorado State House District 2
+#### State of Colorado
 
-Candidates:
+##### [Amendment V: Yes](co/amendment-v.md)
 
-* Alec Garnett
+##### [Amendment W: Yes](co/amendment-w.md)
 
-Information:
+##### [Amendment X: Yes](co/amendment-x.md)
 
-* http://www.garnettforcolorado.com/
+##### [Amendment Y: Yes](co/amendment-y.md)
 
-Vote: Alec Garnett
+##### [Amendment Z: Yes](co/amendment-z.md)
 
-Why:
+##### [Amendment A: Yes](co/amendment-a.md)
 
-* No one else seems to be running.
-* Garnett hasn't, to my knowledge, done anything bad enough to warrant a protest vote.
+##### [Amendment 73: TODO](co/amendment-73.md)
 
-##### Colorado Supreme Court Justice Richard Gabriel
+##### [Amendment 74: TODO](co/amendment-74.md)
 
-Information: TODO
+##### [Amendment 75: TODO](co/amendment-75.md)
 
-Vote: TODO
+##### [Proposition 109: TODO](co/proposition-109.md)
 
-##### More Elections, TODO
+##### [Proposition 110: TODO](co/proposition-110.md)
 
-### Ballot Measures
+##### [Proposition 111: TODO](co/proposition-111.md)
 
-#### Amendment A
+##### [Proposition 112: TODO](co/proposition-112.md)
 
-Information:
+#### City and County of Denver
 
-* https://ballotpedia.org/Colorado_Amendment_A,_Removal_of_Exception_to_Slavery_Prohibition_for_Criminals_Amendment_(2018)
+##### [Referred Measure 2A: TODO](co/denver/referred-measure-2a.md)
 
-Vote: Yes.
+##### [Referred Measure 2B: TODO](co/denver/referred-measure-2b.md)
 
-Why:
+##### [Referred Measure 2C: TODO](co/denver/referred-measure-2c.md)
 
-* Slavery is bad.
+##### [Referred Measure 2D: TODO](co/denver/referred-measure-2d.md)
 
-#### Amendment V
+##### [Referred Measure 2E: TODO](co/denver/referred-measure-2e.md)
 
-Information:
+##### [Initiated Ordinance 300: TODO](co/denver/initiated-ordinance-300.md)
 
-* https://ballotpedia.org/Colorado_Amendment_V,_Reduced_Age_Qualification_for_General_Assembly_Members_Amendment_(2018)
+##### [Initiated Ordinance 301: TODO](co/denver/initiated-ordinance-301.md)
 
-Vote: Yes.
+##### [Initiated Ordinance 302: TODO](co/denver/initiated-ordinance-302.md)
 
-Why:
+#### Urban Drainage and Flood Control District
 
-* Generally in favor of increasing opportunities to participate in our [democracy](../values/democracy.md).
-* This seems like it will make running for office possible for more people.
-
-#### Amendment W
-
-Information:
-
-* https://ballotpedia.org/Colorado_Amendment_W,_Judge_Retention_Ballot_Language_Amendment_(2018)
-
-Vote: Yes
-
-Why:
-
-* Generally in favor of increasing opportunities to participate in our [democracy](../values/democracy.md).
-* This seems like it will make voting a little easier.
-
-#### Amendment X
-
-Information:
-
-* https://ballotpedia.org/Colorado_Amendment_X,_Definition_of_Industrial_Hemp_Amendment_(2018)
-
-Vote: Yes
-
-Why:
-
-* This sounds like it would be a step toward legalizing industrial hemp, and I've never seen a good reason why hemp should be illegal.
-
-#### Amendment Y
-
-Information:
-
-* https://ballotpedia.org/Colorado_Amendment_Y,_Independent_Commission_for_Congressional_Redistricting_Amendment_(2018)
-
-Vote: Yes
-
-Why:
-
-* Partisan control of district maps makes elected representatives less accountable to their constituents.
-
-#### Amendment Z
-
-Information:
-
-* https://ballotpedia.org/Colorado_Amendment_Z,_Independent_Commission_for_State_Legislative_Redistricting_Amendment_(2018)
-
-Vote: Yes
-
-Why:
-
-* Partisan control of district maps makes elected representatives less accountable to their constituents.
+##### [Ballot Issue 7G: TODO](co/urban-drainage-and-flood-control-district/ballot-issue-7g.md)
