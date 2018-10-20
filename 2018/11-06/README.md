@@ -8,11 +8,11 @@ I will be voting in Denver, Colorado for this election.
 
 #### National Government
 
-##### [U.S. House of Representatives, Colorado District 1: Diane Degette](2018/11-06/us/house-co-01.md)
+##### [U.S. House of Representatives, Colorado District 1: Diane Degette](us/house-co-01.md)
 
 #### Colorado State Government
 
-##### [Colorado Governor: Jared Polis](2018/11-06/co/governor.md)
+##### [Colorado Governor: Jared Polis](co/governor.md)
 
 ##### Colorado Attorney General
 
