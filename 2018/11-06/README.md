@@ -18,7 +18,7 @@ I will be voting in Denver, Colorado for this election.
 
 ##### [Colorado Treasurer: Dave Young](co/treasurer.md)
 
-##### [Colorado Attorney General: TODO](co/attorney-general.md)
+##### [Colorado Attorney General: Phil Weiser](co/attorney-general.md)
 
 ##### [Regent of the University of Colorado, At Large: TODO](co/regent-at-large.md)
 
