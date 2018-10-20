@@ -1,4 +1,4 @@
-# 2018-11-06 Election, U.S. House of Representatives, Colorado District 1
+# [2018-11-06 Election](../README.md), U.S. House of Representatives, Colorado District 1
 
 ## Candidates:
 
