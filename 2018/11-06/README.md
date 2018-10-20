@@ -44,27 +44,27 @@ I will be voting in Denver, Colorado for this election.
 
 ##### [District Court Judge, Morris B. Hoffman: Yes, Retain](co/district-court-morris-b-hoffman.md)
 
-##### [District Court Judge, Kenneth Martin Laff: TODO](co/district-court-kenneth-martin-laff.md)
+##### [District Court Judge, Kenneth Martin Laff: Yes, Retain](co/district-court-kenneth-martin-laff.md)
 
-##### [District Court Judge, Catherine A. Lemon: TODO](co/district-court-catherine-a-lemon.md)
+##### [District Court Judge, Catherine A. Lemon: Yes, Retain](co/district-court-catherine-a-lemon.md)
 
-##### [District Court Judge, Jennifer B. Torrington: TODO](co/district-court-jennifer-b-torrington.md)
+##### [District Court Judge, Jennifer B. Torrington: Yes, Retain](co/district-court-jennifer-b-torrington.md)
 
-##### [County Court Judge, Johnny C. Barajas: TODO](co/county-court-johnny-b-barajas.md)
+##### [County Court Judge, Johnny C. Barajas: Yes, Retain](co/county-court-johnny-b-barajas.md)
 
-##### [County Court Judge, Brian Thomas Campbell: TODO](co/county-court-brian-thomas-campbell.md)
+##### [County Court Judge, Brian Thomas Campbell: Yes, Retain](co/county-court-brian-thomas-campbell.md)
 
-##### [County Court Judge, Andrea Eddy: TODO](co/county-court-andrea-eddy.md)
+##### [County Court Judge, Andrea Eddy: Yes, Retain](co/county-court-andrea-eddy.md)
 
-##### [County Court Judge, Adam J. Espinosa: TODO](co/county-court-adam-j-espinosa.md)
+##### [County Court Judge, Adam J. Espinosa: Yes, Retain](co/county-court-adam-j-espinosa.md)
 
-##### [County Court Judge, Olympia Z. Fay: TODO](co/county-court-olympia-z-fay.md)
+##### [County Court Judge, Olympia Z. Fay: Yes, Retain](co/county-court-olympia-z-fay.md)
 
-##### [County Court Judge, Clarisse Gonzales: TODO](co/county-court-clarisse-gonzales.md)
+##### [County Court Judge, Clarisse Gonzales: Yes, Retain](co/county-court-clarisse-gonzales.md)
 
-##### [County Court Judge, Kerri Lombardi: TODO](co/county-court-kerri-lombardi.md)
+##### [County Court Judge, Kerri Lombardi: Yes, Retain](co/county-court-kerri-lombardi.md)
 
-##### [County Court Judge, Chelsea Malone: TODO](co/county-court-chelsea-malone.md)
+##### [County Court Judge, Chelsea Malone: Yes, Retain](co/county-court-chelsea-malone.md)
 
 ### Ballot Questions
 
