@@ -34,7 +34,7 @@ I will be voting in Denver, Colorado for this election.
 
 ##### [Colorado Court of Appeals Judge, Elizabeth L. Harris: Yes, Retain](co/court-of-appeals-elizabeth-l-harris.md)
 
-##### [Colorado Court of Appeals Judge, David J. Richman: Yes, Retain]](co/court-of-appeals-david-j-richman.md)
+##### [Colorado Court of Appeals Judge, David J. Richman: Yes, Retain](co/court-of-appeals-david-j-richman.md)
 
 ##### [District Court Judge, Shelley I. Gilman: TODO](co/district-court-shelley-i-gilman.md)
 
