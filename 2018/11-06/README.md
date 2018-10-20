@@ -12,43 +12,7 @@ I will be voting in Denver, Colorado for this election.
 
 #### Colorado State Government
 
-##### Colorado Governor
-
-Candidates:
-
-* Jared Polis
-* Walker Stapleton
-* Scott Helker
-* Veronique Bellamy
-* George Allen Cantrell
-* Bill Hammons
-* Richard Osada
-* Korey Paul Starkey
-* Michael Wilbourn
-* Matthew Wood
-* Kathleen Cunningham
-* Paul Willmon
-
-Information:
-
-* https://polisforcolorado.com/
-* https://www.stapletonforcolorado.com/
-* http://electhelker4governor.com/
-* https://www.facebook.com/vmbellamy/
-* https://www.billisrunning.com/
-* http://www.willmon2018gov.com/
-
-Vote: Jared Polis
-
-Why:
-
-* https://www.facebook.com/vmbellamy/ says "While I'm not running for governor anymore" so I gather Bellamy is no longer running.
-* I couldn't find any information about the campaign of George Allen Cantrell, Richard Osada, Korey Paul Starkey, Michael Wilbourn, Matthew Wood, nor Kathleen Cunningham.
-* Neither Helker's nor Hammon's website has enough information for me to understand their platforms.
-* Willmon's website has plenty of issue positions, but they're all pretty vague.
-* Stapleton is against universal healthcare and his education focus is charter schools.
-* Polis is for universal healthcare and universal preschool.
-* I believe both healthcare and school work best as public government services.
+##### [Colorado Governor: Jared Polis](2018/11-06/co/governor.md)
 
 ##### Colorado Attorney General
 
