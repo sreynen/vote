@@ -4,4 +4,4 @@ This is a description of how I plan to vote, and why. If you'd like to change my
 
 Upcoming elections:
 
-* [November 6, 2018](https://github.com/sreynen/vote/blob/main/2018/11-06.md)
+* [November 6, 2018](2018/11-06.md)
