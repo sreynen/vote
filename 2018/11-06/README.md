@@ -14,7 +14,7 @@ I will be voting in Denver, Colorado for this election.
 
 ##### [Colorado Governor: Jared Polis](co/governor.md)
 
-##### [Colorado Secretary of State: TODO](co/secretary-of-state.md)
+##### [Colorado Secretary of State: Jena Griswold](co/secretary-of-state.md)
 
 ##### [Colorado Treasurer: TODO](co/treasurer.md)
 
