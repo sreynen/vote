@@ -40,9 +40,9 @@ I will be voting in Denver, Colorado for this election.
 
 ##### [District Court Judge, David H. Goldberg: Yes, Retain](co/district-court-david-h-goldberg.md)
 
-##### [District Court Judge, Jay Sutherland Grant: TODO](co/district-court-jay-sutherland-grant.md)
+##### [District Court Judge, Jay Sutherland Grant: Yes, Retain](co/district-court-jay-sutherland-grant.md)
 
-##### [District Court Judge, Morris B. Hoffman: TODO](co/district-court-morris-b-hoffman.md)
+##### [District Court Judge, Morris B. Hoffman: Yes, Retain](co/district-court-morris-b-hoffman.md)
 
 ##### [District Court Judge, Kenneth Martin Laff: TODO](co/district-court-kenneth-martin-laff.md)
 
