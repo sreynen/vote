@@ -16,7 +16,7 @@ I will be voting in Denver, Colorado for this election.
 
 ##### [Colorado Secretary of State: Jena Griswold](co/secretary-of-state.md)
 
-##### [Colorado Treasurer: TODO](co/treasurer.md)
+##### [Colorado Treasurer: Dave Young](co/treasurer.md)
 
 ##### [Colorado Attorney General: TODO](co/attorney-general.md)
 
