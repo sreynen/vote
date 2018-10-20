@@ -1,4 +1,4 @@
-# [2018-11-06 Election](2018/11-06/README.md), Colorado Governor
+# [2018-11-06 Election](../README.md), Colorado Governor
 
 ## Candidates:
 
