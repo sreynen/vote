@@ -36,7 +36,7 @@ I will be voting in Denver, Colorado for this election.
 
 ##### [Colorado Court of Appeals Judge, David J. Richman: Yes, Retain](co/court-of-appeals-david-j-richman.md)
 
-##### [District Court Judge, Shelley I. Gilman: TODO](co/district-court-shelley-i-gilman.md)
+##### [District Court Judge, Shelley I. Gilman: Yes, Retain](co/district-court-shelley-i-gilman.md)
 
 ##### [District Court Judge, David H. Goldberg: TODO](co/district-court-david-h-goldberg.md)
 
