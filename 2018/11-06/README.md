@@ -22,7 +22,7 @@ I will be voting in Denver, Colorado for this election.
 
 ##### [Regent of the University of Colorado, At Large: Lesley Smith](co/regent-at-large.md)
 
-##### [Colorado State Senator, District 32: TODO](co/senate-32.md)
+##### [Colorado State Senator, District 32: Peter Smith](co/senate-32.md)
 
 ##### [Colorado State Represenative, District 2: Alec Garnett](co/house-02.md)
 
