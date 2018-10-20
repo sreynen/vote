@@ -20,7 +20,7 @@ I will be voting in Denver, Colorado for this election.
 
 ##### [Colorado Attorney General: Phil Weiser](co/attorney-general.md)
 
-##### [Regent of the University of Colorado, At Large: TODO](co/regent-at-large.md)
+##### [Regent of the University of Colorado, At Large: Lesley Smith](co/regent-at-large.md)
 
 ##### [Colorado State Senator, District 32: TODO](co/senate-32.md)
 
