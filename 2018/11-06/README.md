@@ -26,13 +26,13 @@ I will be voting in Denver, Colorado for this election.
 
 ##### [Colorado State Represenative, District 2: Alec Garnett](co/house-02.md)
 
-##### [Colorado Supreme Court Justice, Richard Gabriel: TODO](co/supreme-court-richard-gabriel.md)
+##### [Colorado Supreme Court Justice, Richard Gabriel: Yes, Retain](co/supreme-court-richard-gabriel.md)
 
 ##### [Colorado Court of Appeals Judge, John Daniel Dailey: TODO](co/court-of-appeals-john-daniel-dailey.md)
 
 ##### [Colorado Court of Appeals Judge, Rebecca Rankin Freyre: TODO](co/court-of-appeals-rebecca-rankin-freyre.md)
 
-##### [Colorado Court of Appeals Judge, Elizabeth L. Harris: TODO](co/court-of-appeals-elizabeth-l-harris.md)
+##### [Colorado Court of Appeals Judge, Elizabeth L. Harris: Yes, Retain](co/court-of-appeals-elizabeth-l-harris.md)
 
 ##### [Colorado Court of Appeals Judge, David J. Richman: TODO](co/court-of-appeals-david-j-richman.md)
 
