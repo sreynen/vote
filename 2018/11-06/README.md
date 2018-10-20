@@ -30,7 +30,7 @@ I will be voting in Denver, Colorado for this election.
 
 ##### [Colorado Court of Appeals Judge, John Daniel Dailey: Yes, Retain](co/court-of-appeals-john-daniel-dailey.md)
 
-##### [Colorado Court of Appeals Judge, Rebecca Rankin Freyre: TODO](co/court-of-appeals-rebecca-rankin-freyre.md)
+##### [Colorado Court of Appeals Judge, Rebecca Rankin Freyre: Yes, Retain](co/court-of-appeals-rebecca-rankin-freyre.md)
 
 ##### [Colorado Court of Appeals Judge, Elizabeth L. Harris: Yes, Retain](co/court-of-appeals-elizabeth-l-harris.md)
 
