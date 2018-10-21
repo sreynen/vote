@@ -98,21 +98,21 @@ I will be voting in Denver, Colorado for this election.
 
 #### City and County of Denver
 
-##### [Referred Measure 2A: TODO](co/denver/referred-measure-2a.md)
+##### [Referred Measure 2A: Yes](co/denver/referred-measure-2a.md)
 
-##### [Referred Measure 2B: TODO](co/denver/referred-measure-2b.md)
+##### [Referred Measure 2B: No](co/denver/referred-measure-2b.md)
 
-##### [Referred Measure 2C: TODO](co/denver/referred-measure-2c.md)
+##### [Referred Measure 2C: Yes](co/denver/referred-measure-2c.md)
 
-##### [Referred Measure 2D: TODO](co/denver/referred-measure-2d.md)
+##### [Referred Measure 2D: Yes](co/denver/referred-measure-2d.md)
 
-##### [Referred Measure 2E: TODO](co/denver/referred-measure-2e.md)
+##### [Referred Measure 2E: Yes](co/denver/referred-measure-2e.md)
 
-##### [Initiated Ordinance 300: TODO](co/denver/initiated-ordinance-300.md)
+##### [Initiated Ordinance 300: No](co/denver/initiated-ordinance-300.md)
 
-##### [Initiated Ordinance 301: TODO](co/denver/initiated-ordinance-301.md)
+##### [Initiated Ordinance 301: Yes](co/denver/initiated-ordinance-301.md)
 
-##### [Initiated Ordinance 302: TODO](co/denver/initiated-ordinance-302.md)
+##### [Initiated Ordinance 302: Yes](co/denver/initiated-ordinance-302.md)
 
 #### Urban Drainage and Flood Control District
 
