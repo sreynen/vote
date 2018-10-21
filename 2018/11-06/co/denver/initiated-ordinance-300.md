@@ -3,6 +3,7 @@
 ## Information:
 
 * https://ballotpedia.org/Denver,_Colorado,_Initiated_Ordinance_300,_College_Scholarship_Sales_Tax_(November_2018)
+* https://denverite.com/2018/10/19/initiated-ordinance-300-in-the-2018-denver-election-what-to-know-about-the-denver-college-affordability-fund/
 * http://lwvdenver.org/ballot-issues.html
 
 # Vote: No
