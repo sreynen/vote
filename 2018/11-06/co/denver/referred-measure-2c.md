@@ -3,6 +3,7 @@
 ## Information:
 
 * https://ballotpedia.org/Denver,_Colorado,_Measure_2C,_Police_Department_Lateral_Recruits_Charter_Amendment_(November_2018)
+* http://lwvdenver.org/ballot-issues.html
 
 # Vote: Yes
 
