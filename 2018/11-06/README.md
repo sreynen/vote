@@ -116,4 +116,4 @@ I will be voting in Denver, Colorado for this election.
 
 #### Urban Drainage and Flood Control District
 
-##### [Ballot Issue 7G: Yes](co/urban-drainage-and-flood-control-district/ballot-issue-7g.md)
+##### [Ballot Issue 7G: Yes](co/urban-drainage-and-flood-control-district-ballot-issue-7g.md)
