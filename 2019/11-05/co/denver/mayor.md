@@ -1,4 +1,4 @@
-# [2019-11-05 Election](../README.md), Denver Mayor
+# [2019-11-05 Election](../../README.md), Denver Mayor
 
 ## Candidates:
 
