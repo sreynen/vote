@@ -4,8 +4,12 @@
 
 ### Declared:
 
+* Michael E. Arth
 * John Delaney
+* Ken Nwadike
 * Richard Ojeda
+* Robby Wells
+* Andrew Yang
 
 ### Intent to Declare:
 
