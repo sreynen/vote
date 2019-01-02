@@ -1,6 +1,6 @@
 # ??, 2020
 
-I will be voting in Denver, Colorado for this election. The date of the Democratic primary hasn't been set yet.
+I will be voting in Denver, Colorado for this election. The date of the Colorado Democratic primary/caucus hasn't been set yet.
 
 ## What's on the Ballot
 
