@@ -4,7 +4,7 @@
 
 ### Declared:
 
-* Michael E. Arth
+* [Michael E. Arth](michael_e_arth.md): Lean No
 * John Delaney
 * Ken Nwadike
 * Richard Ojeda
