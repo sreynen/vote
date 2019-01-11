@@ -35,7 +35,6 @@
 * Jeff Merkley
 * Beto O'Rourke
 * Bernie Sanders
-* Tom Steyer
 * Eric Swalwell
 
 # Vote: TBD
