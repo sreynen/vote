@@ -16,6 +16,7 @@
 * Julian Castro
 * Elizabeth Warren
 * Marianne Williamson
+* Kamala Harris
 
 ### Potential:
 
@@ -27,7 +28,6 @@
 * Tulsi Gabbard
 * Eric Garcetti
 * Kirsten Gillibrand
-* Kamala Harris
 * John Hickenlooper
 * Eric Holder
 * Jay Inslee
