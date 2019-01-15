@@ -33,7 +33,7 @@
 * Jay Inslee
 * Amy Klobuchar
 * Jeff Merkley
-* Beto O'Rourke
+* [Beto O'Rourke](beto_orourke.md): TBD
 * Bernie Sanders
 * Eric Swalwell
 
