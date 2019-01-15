@@ -14,9 +14,10 @@
 ### Intent to Declare:
 
 * Julian Castro
+* Tulsi Gabbard
+* Kamala Harris
 * Elizabeth Warren
 * Marianne Williamson
-* Kamala Harris
 
 ### Potential:
 
@@ -25,7 +26,6 @@
 * Cory Booker
 * Sherrod Brown
 * Pete Buttigieg
-* Tulsi Gabbard
 * Eric Garcetti
 * Kirsten Gillibrand
 * John Hickenlooper
