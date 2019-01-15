@@ -14,7 +14,7 @@
 ### Intent to Declare:
 
 * Julian Castro
-* Tulsi Gabbard
+* [Tulsi Gabbard](tulsi_gabbard.md): TBD
 * Kamala Harris
 * Elizabeth Warren
 * Marianne Williamson
