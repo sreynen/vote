@@ -2,7 +2,8 @@
 
 ## Information
 
-* https://en.wikipedia.org/wiki/Kamala_Harris
+* https://en.wikipedia.org/wiki/Beto_O'Rourke
+* https://www.buzzfeednews.com/article/mollyhensleyclancy/beto-orourke-2020-election-president-texas-voters
 
 ## Stance: TBD
 
