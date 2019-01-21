@@ -5,17 +5,18 @@
 ### Declared:
 
 * [Michael E. Arth](michael_e_arth.md): Lean No
+* Julian Castro
 * [John Delaney](john_delaney.md): Lean No
+* [Tulsi Gabbard](tulsi_gabbard.md): TBD
+* [Kamala Harris](kamala_harris.md): TBD
 * Ken Nwadike
 * Richard Ojeda
 * Robby Wells
 * Andrew Yang
 
-### Intent to Declare:
+### Formed Exploratory Committee:
 
-* Julian Castro
-* [Tulsi Gabbard](tulsi_gabbard.md): TBD
-* Kamala Harris
+* Kirsten Gillibrand
 * Elizabeth Warren
 * Marianne Williamson
 
@@ -27,7 +28,6 @@
 * Sherrod Brown
 * Pete Buttigieg
 * Eric Garcetti
-* Kirsten Gillibrand
 * John Hickenlooper
 * Eric Holder
 * Jay Inslee
