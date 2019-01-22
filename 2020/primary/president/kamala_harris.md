@@ -3,6 +3,7 @@
 ## Information
 
 * https://en.wikipedia.org/wiki/Kamala_Harris
+* https://www.jacobinmag.com/2017/08/kamala-harris-trump-obama-california-attorney-general
 
 ## Stance: TBD
 
