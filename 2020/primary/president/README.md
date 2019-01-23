@@ -16,6 +16,7 @@
 
 ### Formed Exploratory Committee:
 
+* Pete Buttigieg: TBD
 * [Kirsten Gillibrand](kirsten_gillibrand.md): TBD
 * [Elizabeth Warren](elizabeth_warren.md): TBD
 * [Marianne Williamson](marianne_williamson.md): TBD
@@ -26,7 +27,6 @@
 * Michael Bloomberg
 * Cory Booker
 * Sherrod Brown
-* Pete Buttigieg
 * Eric Garcetti
 * John Hickenlooper
 * Eric Holder
