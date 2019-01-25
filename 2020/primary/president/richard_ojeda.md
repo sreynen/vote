@@ -3,9 +3,10 @@
 ## Information
 
 * https://en.wikipedia.org/wiki/Richard_Ojeda
+* https://theintercept.com/2019/01/25/richard-ojeda-president-drops-out/
 
-## Stance: TBD
+## Stance: No
 
 ## Why
 
-TBD
+No longer running.
