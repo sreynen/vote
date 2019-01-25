@@ -10,7 +10,6 @@
 * [Tulsi Gabbard](tulsi_gabbard.md): TBD
 * [Kamala Harris](kamala_harris.md): TBD
 * [Ken Nwadike](ken_nwadike.md): TBD
-* [Richard Ojeda](richard_ojeda.md): TBD
 * [Robby Wells](robby_wells.md): TBD
 * [Andrew Yang](andrew_yang.md): TBD
 
