@@ -15,7 +15,7 @@
 
 ### Formed Exploratory Committee:
 
-* Pete Buttigieg: TBD
+* [Pete Buttigieg](pete_buttigieg.md): TBD
 * [Kirsten Gillibrand](kirsten_gillibrand.md): TBD
 * [Elizabeth Warren](elizabeth_warren.md): TBD
 * [Marianne Williamson](marianne_williamson.md): TBD
