@@ -8,7 +8,7 @@
 * [Julian Castro](julian_castro.md): TBD
 * [John Delaney](john_delaney.md): Lean No
 * [Tulsi Gabbard](tulsi_gabbard.md): Lean No
-* [Kamala Harris](kamala_harris.md): TBD
+* [Kamala Harris](kamala_harris.md): Lean Yes
 * [Ken Nwadike](ken_nwadike.md): TBD
 * [Robby Wells](robby_wells.md): TBD
 * [Andrew Yang](andrew_yang.md): TBD
