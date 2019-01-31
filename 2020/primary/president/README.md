@@ -30,7 +30,7 @@
 * John Hickenlooper
 * Eric Holder
 * Jay Inslee
-* Amy Klobuchar
+* [Amy Klobuchar](amy_klobuchar.md): TBD
 * Jeff Merkley
 * [Beto O'Rourke](beto_orourke.md): TBD
 * Bernie Sanders
