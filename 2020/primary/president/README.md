@@ -26,7 +26,6 @@
 * Joe Biden
 * Michael Bloomberg
 * Sherrod Brown
-* Eric Garcetti
 * John Hickenlooper
 * Eric Holder
 * Jay Inslee
