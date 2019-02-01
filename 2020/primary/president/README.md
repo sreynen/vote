@@ -5,12 +5,14 @@
 ### Declared:
 
 * [Michael E. Arth](michael_e_arth.md): Lean No
+* [Cory Booker](cory_booker.md): TBD
 * [Julian Castro](julian_castro.md): TBD
 * [John Delaney](john_delaney.md): Lean No
 * [Tulsi Gabbard](tulsi_gabbard.md): Lean No
 * [Kamala Harris](kamala_harris.md): Lean Yes
 * [Ken Nwadike](ken_nwadike.md): TBD
 * [Robby Wells](robby_wells.md): TBD
+* [Marianne Williamson](marianne_williamson.md): TBD
 * [Andrew Yang](andrew_yang.md): TBD
 
 ### Formed Exploratory Committee:
@@ -18,13 +20,11 @@
 * [Pete Buttigieg](pete_buttigieg.md): TBD
 * [Kirsten Gillibrand](kirsten_gillibrand.md): TBD
 * [Elizabeth Warren](elizabeth_warren.md): TBD
-* [Marianne Williamson](marianne_williamson.md): TBD
 
 ### Potential:
 
 * Joe Biden
 * Michael Bloomberg
-* Cory Booker
 * Sherrod Brown
 * Eric Garcetti
 * John Hickenlooper
