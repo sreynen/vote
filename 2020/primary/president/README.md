@@ -11,6 +11,7 @@
 * [Tulsi Gabbard](tulsi_gabbard.md): Lean No
 * [Kamala Harris](kamala_harris.md): Lean Yes
 * [Ken Nwadike](ken_nwadike.md): TBD
+* [Elizabeth Warren](elizabeth_warren.md): TBD
 * [Robby Wells](robby_wells.md): TBD
 * [Marianne Williamson](marianne_williamson.md): TBD
 * [Andrew Yang](andrew_yang.md): TBD
@@ -19,7 +20,6 @@
 
 * [Pete Buttigieg](pete_buttigieg.md): TBD
 * [Kirsten Gillibrand](kirsten_gillibrand.md): TBD
-* [Elizabeth Warren](elizabeth_warren.md): TBD
 
 ### Potential:
 
