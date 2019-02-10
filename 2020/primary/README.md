@@ -9,6 +9,6 @@ I will be voting in Denver, Colorado for this election. The date of the Colorado
 #### National Government
 
 ##### [U.S. President: TBD](president/README.md)
-##### U.S. Senate: TBD
+##### [U.S. Senate: TBD](senate/README.md)
 
 TBD
