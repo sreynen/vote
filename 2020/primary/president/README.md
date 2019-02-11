@@ -10,6 +10,7 @@
 * [John Delaney](john_delaney.md): Lean No
 * [Tulsi Gabbard](tulsi_gabbard.md): Lean No
 * [Kamala Harris](kamala_harris.md): Lean Yes
+* [Amy Klobuchar](amy_klobuchar.md): TBD
 * [Ken Nwadike](ken_nwadike.md): TBD
 * [Elizabeth Warren](elizabeth_warren.md): TBD
 * [Robby Wells](robby_wells.md): TBD
@@ -29,7 +30,6 @@
 * John Hickenlooper
 * Eric Holder
 * Jay Inslee
-* [Amy Klobuchar](amy_klobuchar.md): TBD
 * Jeff Merkley
 * [Beto O'Rourke](beto_orourke.md): TBD
 * Bernie Sanders
