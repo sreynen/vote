@@ -12,6 +12,7 @@
 * [Kamala Harris](kamala_harris.md): Lean Yes
 * [Amy Klobuchar](amy_klobuchar.md): TBD
 * [Ken Nwadike](ken_nwadike.md): TBD
+* Bernie Sanders
 * [Elizabeth Warren](elizabeth_warren.md): TBD
 * [Robby Wells](robby_wells.md): TBD
 * [Marianne Williamson](marianne_williamson.md): TBD
@@ -32,7 +33,6 @@
 * Jay Inslee
 * Jeff Merkley
 * [Beto O'Rourke](beto_orourke.md): TBD
-* Bernie Sanders
 * Eric Swalwell
 
 # Vote: TBD
