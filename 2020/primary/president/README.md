@@ -10,9 +10,11 @@
 * [John Delaney](john_delaney.md): Lean No
 * [Tulsi Gabbard](tulsi_gabbard.md): Lean No
 * [Kamala Harris](kamala_harris.md): Lean Yes
+* Jay Inslee: TBD
 * [Amy Klobuchar](amy_klobuchar.md): TBD
 * [Ken Nwadike](ken_nwadike.md): TBD
-* Bernie Sanders
+* [Beto O'Rourke](beto_orourke.md): TBD
+* Bernie Sanders: TBD
 * [Elizabeth Warren](elizabeth_warren.md): TBD
 * [Robby Wells](robby_wells.md): TBD
 * [Marianne Williamson](marianne_williamson.md): TBD
@@ -30,9 +32,7 @@
 * Sherrod Brown
 * John Hickenlooper
 * Eric Holder
-* Jay Inslee
 * Jeff Merkley
-* [Beto O'Rourke](beto_orourke.md): TBD
 * Eric Swalwell
 
 # Vote: TBD
