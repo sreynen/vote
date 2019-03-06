@@ -29,7 +29,6 @@
 ### Potential:
 
 * Joe Biden
-* Michael Bloomberg
 * Sherrod Brown
 * Jeff Merkley
 * Eric Swalwell
