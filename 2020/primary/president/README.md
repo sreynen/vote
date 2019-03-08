@@ -12,7 +12,7 @@
 * [Kamala Harris](kamala_harris.md): Lean Yes
 * [John Hickenlooper](john_hickenlooper.md): TBD
 * [Jay Inslee](jay_inslee.md): TBD
-* [Amy Klobuchar](amy_klobuchar.md): TBD
+* [Amy Klobuchar](amy_klobuchar.md): Lean No
 * [Ken Nwadike](ken_nwadike.md): TBD
 * [Beto O'Rourke](beto_orourke.md): TBD
 * [Bernie Sanders](bernie_sanders.md): TBD
