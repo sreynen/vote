@@ -21,8 +21,8 @@
 | [Tax Equity](tax_equity.md)                           | :question:     |
 | [Universal Health Care](universal_health_care.md)     | :neutral_face: |
 
-## Stance: TBD
+## Stance: Lean No
 
 ## Why
 
-TBD
+None of Klobuchar's positions are especially exciting to me so far. Her comments on our military seem to mostly support further expansion.
