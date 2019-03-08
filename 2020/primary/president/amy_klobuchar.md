@@ -14,7 +14,7 @@
 | Value                                                 | Assessment     |
 | ----------------------------------------------------- | -------------- |
 | [Democracy](democracy.md)                             | :neutral_face: |
-| [Drug Legalization](drug_legalization.md)             | :simple_smile: |
+| [Drug Legalization](drug_legalization.md)             | :relieved:     |
 | [Minimize Climate Change](minimize_climate_change.md) | :neutral_face: |
 | [Reparations](reparations.md)                         | :question:     |
 | [Smaller Military](smaller_military.md)               | :disappointed: |
