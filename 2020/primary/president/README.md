@@ -10,12 +10,12 @@
 * [John Delaney](john_delaney.md): Lean No
 * [Tulsi Gabbard](tulsi_gabbard.md): Lean No
 * [Kamala Harris](kamala_harris.md): Lean Yes
-* John Hickenlooper: TBD
-* Jay Inslee: TBD
+* [John Hickenlooper](john_hickenlooper.md): TBD
+* [Jay Inslee](jay_inslee.md): TBD
 * [Amy Klobuchar](amy_klobuchar.md): TBD
 * [Ken Nwadike](ken_nwadike.md): TBD
 * [Beto O'Rourke](beto_orourke.md): TBD
-* Bernie Sanders: TBD
+* [Bernie Sanders](bernie_sanders.md): TBD
 * [Elizabeth Warren](elizabeth_warren.md): TBD
 * [Robby Wells](robby_wells.md): TBD
 * [Marianne Williamson](marianne_williamson.md): TBD
@@ -29,7 +29,6 @@
 ### Potential:
 
 * Joe Biden
-* Sherrod Brown
 * Jeff Merkley
 * Eric Swalwell
 

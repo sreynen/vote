@@ -1,4 +1,4 @@
-# Democracy
+# Democracy is Good
 
 It's easy to become disenchanted with democracy when someone you don't care for is elected. As Winston Churchill [once said](https://www.goodreads.com/quotes/267224-democracy-is-the-worst-form-of-government-except-for-all) (apparently quoting someone else without attribution):
 
