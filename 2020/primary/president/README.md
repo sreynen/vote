@@ -28,6 +28,7 @@
 
 ### Potential:
 
+* Stacey Abrams
 * Joe Biden
 * Jeff Merkley
 * Eric Swalwell
