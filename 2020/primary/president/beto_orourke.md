@@ -8,6 +8,7 @@
 * https://medium.com/@RepBetoORourke/introducing-a-medicare-public-option-75faae0b6b6
 * https://www.newsweek.com/beto-orourke-ocasio-cortez-green-new-deal-1328205
 * https://www.mcclatchydc.com/news/politics-government/congress/article215586095.html
+* https://theintercept.com/2019/03/13/beto-orourke-running-president-started-weed/
 
 ## Values Assessment
 
@@ -25,4 +26,4 @@
 
 ## Why
 
-O'Rourke looks good on some issues, but he's not really the best on anything and he's totally wrong on some issues. He's good on issues that have popular support only _after_ those issues have popular support, so he's not pushing the debate forward. And on issues that don't get much attention, such as military spending, he supports the status quo.
+O'Rourke looks good on some issues, but he's not really the best on anything and he's totally wrong on some issues. He's good on issues that have popular support only _after_ those issues have popular support, so he's not pushing the debate forward. And on issues that don't get much attention, such as military spending, he has a record of supporting the status quo.
