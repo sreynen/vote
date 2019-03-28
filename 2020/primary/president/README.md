@@ -25,13 +25,14 @@
 
 * [Pete Buttigieg](pete_buttigieg.md): TBD
 * **[Kirsten Gillibrand](kirsten_gillibrand.md): Lean Yes**
+* Wayne Messam: TBD
 
 ### Potential:
 
-* Stacey Abrams
-* Joe Biden
-* Jeff Merkley
-* Eric Swalwell
+* Stacey Abrams: TBD
+* Joe Biden: TBD
+* Jeff Merkley: TBD
+* Eric Swalwell: TBD
 
 # Vote: TBD
 
