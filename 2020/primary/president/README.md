@@ -15,6 +15,7 @@
 * [John Hickenlooper](john_hickenlooper.md): Lean No
 * [Jay Inslee](jay_inslee.md): Lean No
 * [Amy Klobuchar](amy_klobuchar.md): Lean No
+* Wayne Messam: TBD
 * [Ken Nwadike](ken_nwadike.md): Lean No
 * [Beto O'Rourke](beto_orourke.md): Lean No
 * Tim Ryan: TBD
@@ -28,13 +29,13 @@
 ### Formed Exploratory Committee:
 
 * [Pete Buttigieg](pete_buttigieg.md): TBD
-* Wayne Messam: TBD
 
 ### Potential:
 
 * Stacey Abrams: TBD
 * Michael Bennet: TBD
 * Joe Biden: TBD
+* Bill de Blasio: TBD
 
 # Vote: TBD
 
