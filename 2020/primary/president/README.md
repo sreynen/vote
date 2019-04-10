@@ -10,6 +10,7 @@
 * [John Delaney](john_delaney.md): Lean No
 * [Tulsi Gabbard](tulsi_gabbard.md): Lean No
 * **[Kirsten Gillibrand](kirsten_gillibrand.md): Lean Yes**
+* Mike Gravel: TBD
 * **[Kamala Harris](kamala_harris.md): Lean Yes**
 * [John Hickenlooper](john_hickenlooper.md): Lean No
 * [Jay Inslee](jay_inslee.md): Lean No
