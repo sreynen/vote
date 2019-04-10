@@ -9,13 +9,16 @@
 * **[Julian Castro](julian_castro.md): Lean Yes**
 * [John Delaney](john_delaney.md): Lean No
 * [Tulsi Gabbard](tulsi_gabbard.md): Lean No
+* **[Kirsten Gillibrand](kirsten_gillibrand.md): Lean Yes**
 * **[Kamala Harris](kamala_harris.md): Lean Yes**
 * [John Hickenlooper](john_hickenlooper.md): Lean No
 * [Jay Inslee](jay_inslee.md): Lean No
 * [Amy Klobuchar](amy_klobuchar.md): Lean No
 * [Ken Nwadike](ken_nwadike.md): Lean No
 * [Beto O'Rourke](beto_orourke.md): Lean No
+* Tim Ryan: TBD
 * **[Bernie Sanders](bernie_sanders.md): Lean Yes**
+* Eric Swalwell: TBD
 * **[Elizabeth Warren](elizabeth_warren.md): Lean Yes**
 * [Robby Wells](robby_wells.md): Lean No
 * [Marianne Williamson](marianne_williamson.md): Lean No
@@ -24,15 +27,14 @@
 ### Formed Exploratory Committee:
 
 * [Pete Buttigieg](pete_buttigieg.md): TBD
-* **[Kirsten Gillibrand](kirsten_gillibrand.md): Lean Yes**
 * Wayne Messam: TBD
 
 ### Potential:
 
 * Stacey Abrams: TBD
+* Michael Bennet: TBD
 * Joe Biden: TBD
 * Jeff Merkley: TBD
-* Eric Swalwell: TBD
 
 # Vote: TBD
 
