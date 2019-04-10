@@ -34,7 +34,6 @@
 * Stacey Abrams: TBD
 * Michael Bennet: TBD
 * Joe Biden: TBD
-* Jeff Merkley: TBD
 
 # Vote: TBD
 
