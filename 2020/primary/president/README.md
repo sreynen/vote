@@ -6,6 +6,7 @@
 
 * [Michael E. Arth](michael_e_arth.md): Lean No
 * **[Cory Booker](cory_booker.md): Lean Yes**
+* [Pete Buttigieg](pete_buttigieg.md): TBD
 * **[Julian Castro](julian_castro.md): Lean Yes**
 * [John Delaney](john_delaney.md): Lean No
 * [Tulsi Gabbard](tulsi_gabbard.md): Lean No
@@ -25,10 +26,6 @@
 * [Robby Wells](robby_wells.md): Lean No
 * [Marianne Williamson](marianne_williamson.md): Lean No
 * **[Andrew Yang](andrew_yang.md): Lean Yes**
-
-### Formed Exploratory Committee:
-
-* [Pete Buttigieg](pete_buttigieg.md): TBD
 
 ### Potential:
 
