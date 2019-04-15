@@ -7,6 +7,7 @@
 * https://www.yang2020.com/policies/single-payer-healthcare/
 * https://www.yang2020.com/policies/legalization-of-marijuana/
 * https://www.yang2020.com/policies/modernize-voting/
+* https://theoutline.com/post/7214/andrew-yang-campaign-alt-right
 
 ## Values Assessment
 
