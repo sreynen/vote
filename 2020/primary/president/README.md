@@ -6,7 +6,7 @@
 
 * [Michael E. Arth](michael_e_arth.md): Lean No
 * **[Cory Booker](cory_booker.md): Lean Yes**
-* [Pete Buttigieg](pete_buttigieg.md): TBD
+* [Pete Buttigieg](pete_buttigieg.md): Lean No
 * **[Julian Castro](julian_castro.md): Lean Yes**
 * [John Delaney](john_delaney.md): Lean No
 * [Tulsi Gabbard](tulsi_gabbard.md): Lean No
