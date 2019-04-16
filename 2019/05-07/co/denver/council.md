@@ -17,6 +17,7 @@
 * https://www.ortegaatlarge.com/
 * https://www.pigfordfordenver.com/
 * https://kniechforcouncil.com/
+* https://www.denverpost.com/2012/05/14/denver-city-council-votes-9-4-to-ban-homeless-camping/
 
 # Vote: Deborah Ortega and Robin Kniech
 
