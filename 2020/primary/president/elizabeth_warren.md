@@ -10,6 +10,7 @@
 * https://www.axios.com/elizabeth-warren-backs-idea-of-green-new-deal-8585d278-ca96-484a-8e22-1f616956c034.html
 * https://www.bostonglobe.com/news/marijuana/2019/02/26/all-presidential-candidates-support-legalizing-marijuana-even-republicans/bK4sQjPIgkzm54kl0dmZoI/story.html
 * https://www.washingtonpost.com/outlook/2018/08/24/democrats-need-start-taking-voting-rights-seriously/
+* https://www.politico.com/magazine/story/2019/04/12/elizabeth-warren-profile-young-republican-2020-president-226613
 
 ## Values Assessment
 
