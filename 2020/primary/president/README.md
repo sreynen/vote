@@ -17,6 +17,7 @@
 * [Jay Inslee](jay_inslee.md): Lean No
 * [Amy Klobuchar](amy_klobuchar.md): Lean No
 * Wayne Messam: TBD
+* Seth Mouton: TBD
 * [Ken Nwadike](ken_nwadike.md): Lean No
 * [Beto O'Rourke](beto_orourke.md): Lean No
 * Tim Ryan: TBD
