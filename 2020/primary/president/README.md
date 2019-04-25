@@ -5,6 +5,7 @@
 ### Declared:
 
 * [Michael E. Arth](michael_e_arth.md): Lean No
+* Joe Biden: TBD
 * **[Cory Booker](cory_booker.md): Lean Yes**
 * [Pete Buttigieg](pete_buttigieg.md): Lean No
 * **[Julian Castro](julian_castro.md): Lean Yes**
@@ -32,7 +33,6 @@
 
 * Stacey Abrams: TBD
 * Michael Bennet: TBD
-* Joe Biden: TBD
 * Bill de Blasio: TBD
 
 # Vote: TBD
