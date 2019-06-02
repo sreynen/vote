@@ -18,5 +18,5 @@ I will be voting in Denver, Colorado for this election.
 
 #### Denver
 
-##### [Initiated Ordinance 300](300.md): Yes
-##### [Initiated Ordinance 301](301.md): Yes
+##### [Initiated Ordinance 300](co/denver/300.md): Yes
+##### [Initiated Ordinance 301](co/denver/301.md): Yes
