@@ -4,6 +4,7 @@ This is a description of how I plan to vote, and why (see [values](values/README
 
 Upcoming elections:
 
+* [June 7, 2019](2019/06-07/README.md)
 * [2020 Primary (date TBD)](2020/primary/README.md)
 * [November 3, 2020](2020/11-03/README.md)
 
