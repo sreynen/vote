@@ -2,38 +2,25 @@
 
 ## Candidates:
 
-### Declared:
-
 * [Michael E. Arth](michael_e_arth.md): Lean No
 * Joe Biden: TBD
 * **[Cory Booker](cory_booker.md): Lean Yes**
 * [Pete Buttigieg](pete_buttigieg.md): Lean No
 * **[Julian Castro](julian_castro.md): Lean Yes**
+* Bill de Blasio: TBD
 * [John Delaney](john_delaney.md): Lean No
 * [Tulsi Gabbard](tulsi_gabbard.md): Lean No
-* **[Kirsten Gillibrand](kirsten_gillibrand.md): Lean Yes**
-* Mike Gravel: TBD
 * **[Kamala Harris](kamala_harris.md): Lean Yes**
-* [John Hickenlooper](john_hickenlooper.md): Lean No
-* [Jay Inslee](jay_inslee.md): Lean No
 * [Amy Klobuchar](amy_klobuchar.md): Lean No
 * Wayne Messam: TBD
-* Seth Mouton: TBD
 * [Ken Nwadike](ken_nwadike.md): Lean No
 * [Beto O'Rourke](beto_orourke.md): Lean No
 * Tim Ryan: TBD
 * **[Bernie Sanders](bernie_sanders.md): Lean Yes**
-* Eric Swalwell: TBD
 * **[Elizabeth Warren](elizabeth_warren.md): Lean Yes**
 * [Robby Wells](robby_wells.md): Lean No
 * [Marianne Williamson](marianne_williamson.md): Lean No
 * **[Andrew Yang](andrew_yang.md): Lean Yes**
-
-### Potential:
-
-* Stacey Abrams: TBD
-* Michael Bennet: TBD
-* Bill de Blasio: TBD
 
 # Vote: TBD
 
