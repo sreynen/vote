@@ -4,7 +4,15 @@
 
 ### Declared:
 
-* Mike Johnston
+* Diana Bray
+* Lorena Garcia
+* John Hickenlooper
+* Alice Madden
 * Andrew Romanoff
+* Stephany Rost Spaulding
+* Michelle Warren
+* Angela Williams
+* Trish Zornio
 
 # Vote: TBD
+
