@@ -16,17 +16,17 @@ Denver District X: TBD
 
 #### Colorado
 
-CC: Yes
+[CC](cc.md): Yes
 
-DD: TBD
+[DD](dd.md): TBD
 
 #### Denver
 
 [2A](2a.md): Yes
 
-2B: Yes
+[2B](2b.md): Yes
 
-2C: Yes
+[2C](2c.md): Yes
 
-2D: Yes
+[2D](2d.md): Yes
 
