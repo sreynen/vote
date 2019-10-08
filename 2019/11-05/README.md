@@ -22,7 +22,7 @@ DD: TBD
 
 #### Denver
 
-2A: Yes
+[2A](2a.md): Yes
 
 2B: Yes
 
