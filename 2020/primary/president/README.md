@@ -7,7 +7,6 @@
 * **[Cory Booker](cory_booker.md): Lean Yes**
 * [Pete Buttigieg](pete_buttigieg.md): Lean No
 * **[Julian Castro](julian_castro.md): Lean Yes**
-* Bill de Blasio: TBD
 * [John Delaney](john_delaney.md): Lean No
 * [Tulsi Gabbard](tulsi_gabbard.md): Lean No
 * **[Kamala Harris](kamala_harris.md): Lean Yes**
