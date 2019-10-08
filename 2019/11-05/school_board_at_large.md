@@ -24,7 +24,7 @@
 | Living wage for teachers | |  |  |
 | Diversify educators | |  |  |
 | DPS graduate |  |  |  |
-| DPS graduate |  |  |  |
+| DPS educator |  |  |  |
 | parent |  |  |  |
 | gender neutral bathrooms |  |  |  |
 | free female hygienic products | |  |  |
