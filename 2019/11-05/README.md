@@ -10,15 +10,13 @@ I will be voting in Denver, Colorado for this election.
 
 [Denver School Board At-Large](school_board_at_large.md): TBA
 
-Denver District X: TBD
-
 ### Ballot Questions
 
 #### Colorado
 
 [CC](cc.md): Yes
 
-[DD](dd.md): TBD
+[DD](dd.md): Yes
 
 #### Denver
 
@@ -29,4 +27,3 @@ Denver District X: TBD
 [2C](2c.md): Yes
 
 [2D](2d.md): Yes
-
