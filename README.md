@@ -1,17 +1,31 @@
 # Vote
 
-This is a description of how I plan to vote, and why (see
-[values](values/README.md)).
+This is a description of how I plan to vote, and [why](values/README.md).
 
-If you'd like to change my mind on anything, feel free to open an issue or a
-pull request. You're also welcome to fork this repo to plan your own votes.
+## Goals
 
-This repo is inspired by, and is a fork of, @sreynen's [repo of the same name](https://github.com/sreynen/vote).
+1. Analyize and think more carefully about my options (because writing is thinking).
 
-## Upcoming elections
+2. Open source my decision making process through GitHub Issues and Pull Requests.
 
-- [2020 Primary (date TBD)](2020/primary/README.md)
+3. Document my decisions for my own use, so I can reflect back on them.
+
+## Contributing
+
+If you'd like to change my mind on anything, feel free to open an issue or a pull request. You're also welcome to fork this repo to plan your own votes.
+
+## Inspiration
+
+This repo is inspired by, and is a fork of, [sreynen/vote](https://github.com/sreynen/vote).
+
+It is also a sort of spiritual successor to [busterbenson/public](https://github.com/busterbenson/public).
+
+## Elections
+
+### Upcoming elections
+
 - [November 3, 2020](2020/11-03/README.md)
+- [2020 Primary (date TBD)](2020/primary/README.md)
 
-## Past elections
+### Past elections
 
