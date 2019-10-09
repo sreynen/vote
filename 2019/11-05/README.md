@@ -8,7 +8,7 @@ I will be voting in Denver, Colorado for this election.
 
 #### Denver
 
-[Denver School Board At-Large](school_board_at_large.md): TBA
+[Denver School Board At-Large](school_board_at_large.md): Tay Anderson
 
 ### Ballot Questions
 
