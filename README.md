@@ -25,8 +25,8 @@ It is also a sort of spiritual successor to [busterbenson/public](https://github
 ### Upcoming elections
 
 - [November 5, 2019](2019/11-05/README.md)
-- [November 3, 2020](2020/11-03/README.md)
 - [2020 Primary (date TBD)](2020/primary/README.md)
+- [November 3, 2020](2020/11-03/README.md)
 
 ### Past elections
 
