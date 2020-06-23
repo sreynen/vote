@@ -4,12 +4,13 @@ This is a description of how I plan to vote, and why (see [values](values/README
 
 Upcoming elections:
 
-* [November 5, 2019](2019/11-05/README.md)
-* [2020 Primary (date TBD)](2020/primary/README.md)
+* [June 30, 2020](2020/06-30/README.md)
 * [November 3, 2020](2020/11-03/README.md)
 
 Past elections:
 
+* [March 3, 2020](2020/03-03/president/README.md)
+* [November 5, 2019](2019/11-05/README.md)
 * [June 7, 2019](2019/06-07/README.md)
 * [May 7, 2019](2019/05-07/README.md)
 * [November 6, 2018](2018/11-06/README.md)
