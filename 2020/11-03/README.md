@@ -8,6 +8,4 @@ I will be voting in Denver, Colorado for this election.
 
 #### National Government
 
-##### U.S. President: TBD
-
-TBD
+##### U.S. President: Joe Biden
